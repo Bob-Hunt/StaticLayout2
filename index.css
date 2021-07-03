@@ -1,0 +1,14 @@
+.container .wrapper {
+    height: 2vh;
+}
+
+.container .top-half {
+    height: 50%;
+    background-color: rgb(203, 228, 250);
+}
+
+.container .bottom-half {
+    height: 50%;
+    background-color: aqua;
+}
+
